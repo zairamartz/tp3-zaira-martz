@@ -5,5 +5,6 @@ En cuanto al código, llegué a iniciar el desarrollo en base al diseño plantea
 
 Resolución de pantalla: 1920x1040
 Editor de código: Visual Studio Code
+Link a Figma: Link Figma:https://www.figma.com/design/J6pS0c9rQRKO4sNC2zA2F1/Portfolio-Zai?node-id=0-1&t=rXLowxotZEqiFofw-1
 
 *Nota personal* Quisiera disculparme por no haber podido finalizar el trabajo en su totalidad. Sin embargo, decidí entregarlo hasta donde llegué para dejar registro del proceso, con la intención de mejorarlo y completarlo correctamente para el recuperatorio. Agradezco la comprensión y el espacio para seguir aprendiendo :)
